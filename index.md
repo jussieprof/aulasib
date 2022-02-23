@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Conteúdo digital das aulas de Informática básica.
 
-You can use the [editor on GitHub](https://github.com/jussieprof/aulasib/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Caro Educando, esse será o local onde você terá acesso a todo o conteúdo de nossas aulas durante o ano letivo. Devido as mudanças ocorridas em face do novo ensino médio, estaremos adequando todo nosso conteúdo e postando gradativamente. 
 
 ### Markdown
 
