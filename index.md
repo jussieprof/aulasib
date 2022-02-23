@@ -2,9 +2,9 @@
 
 Caro Educando, esse será o local onde você terá acesso a todo o conteúdo de nossas aulas durante o ano letivo. Devido as mudanças ocorridas em face do novo ensino médio, estaremos adequando todo nosso conteúdo e postando gradativamente. 
 
-### Markdown
+### CONTEÚDO POR AULA
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Acesse ou faça o download dos conteúdos clicando nos respectivos links de cada aula.
 
 ```markdown
 Syntax highlighted code block
