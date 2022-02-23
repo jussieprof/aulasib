@@ -1,12 +1,11 @@
 ## Conteúdo digital das aulas de Informática básica.
-
+```markdown
 Caro educando, esse será o local onde você terá acesso a todo o conteúdo de nossas aulas durante o ano letivo. Devido as mudanças ocorridas em face do novo ensino médio, estaremos adequando todo nosso conteúdo e postando gradativamente. 
-
+```
 ### APOSTILAS E NOTAS DE AULAS
 
 Acesse ou faça o download dos conteúdos clicando nos respectivos links de cada aula.
 
-```markdown
 # **[BAIXAR APOSTILA INFORMÁTICA BÁSICA]** _(Base para maior parte dos conteúdos abordados no decorrer do ano)_
 ## Header 2
 ### Header 3
@@ -20,7 +19,6 @@ Acesse ou faça o download dos conteúdos clicando nos respectivos links de cada
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
