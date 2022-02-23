@@ -1,15 +1,13 @@
 ## Conteúdo digital das aulas de Informática básica.
 
-Caro Educando, esse será o local onde você terá acesso a todo o conteúdo de nossas aulas durante o ano letivo. Devido as mudanças ocorridas em face do novo ensino médio, estaremos adequando todo nosso conteúdo e postando gradativamente. 
+Caro educando, esse será o local onde você terá acesso a todo o conteúdo de nossas aulas durante o ano letivo. Devido as mudanças ocorridas em face do novo ensino médio, estaremos adequando todo nosso conteúdo e postando gradativamente. 
 
-### CONTEÚDO POR AULA
+### APOSTILAS E NOTAS DE AULAS
 
 Acesse ou faça o download dos conteúdos clicando nos respectivos links de cada aula.
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
+# **[BAIXAR APOSTILA INFORMÁTICA BÁSICA]** _(Base para maior parte dos conteúdos abordados no decorrer do ano)_
 ## Header 2
 ### Header 3
 
