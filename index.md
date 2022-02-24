@@ -1,7 +1,8 @@
 ## CONTEÚDO DIGITAL UTILIZADOS NAS AULAS DE INFORMÁTICA BÁSICA
+------------
 _Caro educando, esse será o local onde você terá acesso a todo o conteúdo de nossas aulas durante o ano letivo. 
 Devido as mudanças ocorridas em face do novo ensino médio, estaremos adequando todo nosso conteúdo e postando gradativamente._
-
+------------
 ### APOSTILAS E NOTAS DE AULAS
 
 Acesse ou faça o download dos conteúdos clicando nos respectivos links de cada aula.
