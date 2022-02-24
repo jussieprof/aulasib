@@ -11,6 +11,7 @@ Acesse ou faça o download dos conteúdos clicando nos respectivos links de cada
 [BAIXAR NOTA DE AULA 02](url) _(Conteúdo apresentado na Aula 02)_
 - [Baixar Slide](url)
 - [Assistir vídeo](url)
+
 [BAIXAR NOTA DE AULA 03](url) _(Conteúdo apresentado na Aula 03)_
 [BAIXAR NOTA DE AULA 04](url) _(Conteúdo apresentado na Aula 04)_
 [BAIXAR NOTA DE AULA 05](url) _(Conteúdo apresentado na Aula 05)_
