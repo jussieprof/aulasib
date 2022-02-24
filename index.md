@@ -4,7 +4,7 @@ _Caro educando, esse será o local onde você terá acesso a todo o conteúdo de
 Devido as mudanças ocorridas em face do novo ensino médio, estaremos adequando todo nosso conteúdo e postando gradativamente._
 
 ------------
-```sh
+
 ### APOSTILAS E NOTAS DE AULAS
 
 Acesse ou faça o download dos conteúdos clicando nos respectivos links de cada aula.
@@ -18,9 +18,10 @@ Acesse ou faça o download dos conteúdos clicando nos respectivos links de cada
 - [Assistir vídeo](url)
 
 [BAIXAR NOTA DE AULA 03](url) _(Conteúdo apresentado na Aula 03)_
+
 [BAIXAR NOTA DE AULA 04](url) _(Conteúdo apresentado na Aula 04)_
+
 [BAIXAR NOTA DE AULA 05](url) _(Conteúdo apresentado na Aula 05)_
-```
 
 ## Header 2
 ### Header 3
