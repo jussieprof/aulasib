@@ -6,8 +6,15 @@ Devido as mudanças ocorridas em face do novo ensino médio, estaremos adequando
 
 Acesse ou faça o download dos conteúdos clicando nos respectivos links de cada aula.
 
-### **[BAIXAR APOSTILA INFORMÁTICA BÁSICA]** 
-_(Base para maior parte dos conteúdos abordados no decorrer do ano)_
+[BAIXAR APOSTILA INFORMÁTICA BÁSICA](url) _(Base para maior parte dos conteúdos abordados no decorrer do ano)_
+[BAIXAR NOTA DE AULA 01](url) _(Conteúdo apresentado na Aula 01)_
+[BAIXAR NOTA DE AULA 02](url) _(Conteúdo apresentado na Aula 02)_
+- [Baixar Slide](url)
+- [Assistir vídeo](url)
+[BAIXAR NOTA DE AULA 03](url) _(Conteúdo apresentado na Aula 03)_
+[BAIXAR NOTA DE AULA 04](url) _(Conteúdo apresentado na Aula 04)_
+[BAIXAR NOTA DE AULA 05](url) _(Conteúdo apresentado na Aula 05)_
+
 
 ## Header 2
 ### Header 3
