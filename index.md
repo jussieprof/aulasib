@@ -22,12 +22,12 @@ BAIXAR NOTA DE AULA - AULA 02 - _(Conteúdo apresentado na Aula 02)_
 
 BAIXAR NOTA DE AULA - AULA 03 - _(Conteúdo apresentado na Aula 03)_
 - [Baixar Slide](https://github.com/jussieprof/jussieprof.github.io/raw/gh-pages/slides/AULA%2003%20-%20HARDWARE%20E%20SOFTWARE.pdf)
-- [Assistir vídeo](https://www.youtube.com/watch?v=mFdUqqwzbVs)
+- [Assistir vídeo](https://www.youtube.com/watch?v=Z5TvnCWPwes)
 - [Baixar Exercício de fixação](https://github.com/jussieprof/jussieprof.github.io/raw/gh-pages/slides/AULA%2002%20-%20HIST%C3%93RIA%20E%20EVOLU%C3%87%C3%83O.pdf)
 
-[BAIXAR NOTA DE AULA - AULA 04](url) _(Conteúdo apresentado na Aula 04)_
-- [Baixar Slide](https://github.com/jussieprof/jussieprof.github.io/raw/gh-pages/slides/AULA%2003%20-%20HARDWARE%20E%20SOFTWARE.pdf)
-- [Assistir vídeo](https://www.youtube.com/watch?v=mFdUqqwzbVs)
+[BAIXAR NOTA DE AULA - AULA 04](url) _(Continuação da Aula 3)_
+- [Assistir vídeo 1](https://www.youtube.com/watch?v=DhvY3nIgZNQ)
+- [Assistir vídeo 2](https://www.youtube.com/watch?v=VhpTG8s5Klo)
 - [Baixar Exercício de fixação](https://github.com/jussieprof/jussieprof.github.io/raw/gh-pages/slides/AULA%2002%20-%20HIST%C3%93RIA%20E%20EVOLU%C3%87%C3%83O.pdf)
 
 [BAIXAR NOTA DE AULA - AULA 05](url) _(Conteúdo apresentado na Aula 05)_
