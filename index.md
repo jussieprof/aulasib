@@ -33,9 +33,11 @@ BAIXAR NOTA DE AULA - AULA 04 - _(Continuação da Aula 3)_
 BAIXAR NOTA DE AULA - AULA 05 - _(Conteúdo apresentado na Aula 05)_
 - [Baixar Slide](https://github.com/jussieprof/jussieprof.github.io/raw/gh-pages/slides/AULA%2003%20-%20HARDWARE%20E%20SOFTWARE.pdf)
 - [Assistir vídeo](https://www.youtube.com/watch?v=mFdUqqwzbVs)
-- [Baixar Exercício de fixação](https://github.com/jussieprof/jussieprof.github.io/raw/gh-pages/slides/AULA%2002%20-%20HIST%C3%93RIA%20E%20EVOLU%C3%87%C3%83O.pdf)
+- [Baixar Exercício de fixação](https://github.com/jussieprof/jussieprof.github.io/raw/gh-pages/exercicios/EXERC%C3%8DCIO%20DE%20FIXA%C3%87%C3%83O%20-%20AULA%2005.pdf)
 
 BAIXAR NOTA DE AULA - AULA 06 - _(Conteúdo apresentado na Aula 05)_
-- [Baixar Slide](https://github.com/jussieprof/jussieprof.github.io/raw/gh-pages/slides/AULA%2003%20-%20HARDWARE%20E%20SOFTWARE.pdf)
-- [Assistir vídeo](https://www.youtube.com/watch?v=mFdUqqwzbVs)
-- [Baixar Exercício de fixação](https://github.com/jussieprof/jussieprof.github.io/raw/gh-pages/slides/AULA%2002%20-%20HIST%C3%93RIA%20E%20EVOLU%C3%87%C3%83O.pdf)
+- [Baixar Slide](https://github.com/jussieprof/jussieprof.github.io/raw/gh-pages/slides/AULA%2006%20-%20FERRAMENTAS%20GOOGLE%20-%20PARTE%2001.pdf)
+- [Assistir vídeo 1](https://youtu.be/UcxkleN7Wek)
+- [Assistir vídeo 2](https://www.youtube.com/watch?v=IUC-VkiPgTo)
+- [Assistir vídeo 3](https://www.youtube.com/watch?v=qXtzobMvNCg)
+- [Baixar Exercício de fixação](https://github.com/jussieprof/jussieprof.github.io/raw/gh-pages/exercicios/EXERC%C3%8DCIO%20DE%20FIXA%C3%87%C3%83O%20-%20AULA%2006.pdf)
