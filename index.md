@@ -39,7 +39,7 @@ Acesse ou faça o download dos conteúdos clicando nos respectivos links de cada
 
 **BAIXAR NOTA DE AULA - AULA 06** - _(Continuação da Aula 05)_
 - [Assistir vídeo 1](https://www.youtube.com/watch?v=3yTDZTKwj-o) _(Guerra dos navegadores)_
-- [Assistir vídeo 2](https://www.youtube.com/watch?v=u_HJ6kbiOg0) _(Eentenda o que é navegador e o que são abas)_
+- [Assistir vídeo 2](https://www.youtube.com/watch?v=u_HJ6kbiOg0) _(Entenda o que é navegador e o que são abas)_
 - [Baixar Exercício de fixação](https://github.com/jussieprof/jussieprof.github.io/raw/gh-pages/exercicios/EXERC%C3%8DCIO%20DE%20FIXA%C3%87%C3%83O%20-%20AULA%2006.pdf) _(Exercício referente as aulas 05 e 06)_
 
 **BAIXAR NOTA DE AULA - AULA 07** - _(Conteúdo apresentado na Aula 07)_
