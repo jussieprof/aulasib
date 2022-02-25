@@ -48,4 +48,4 @@ Acesse ou faça o download dos conteúdos clicando nos respectivos links de cada
 - [Assistir vídeo 2](https://www.youtube.com/watch?v=IUC-VkiPgTo&t=45s) _(BAIXAR e INSTALAR o Google Chrome)_
 - [Assistir vídeo 3](https://www.youtube.com/watch?v=qXtzobMvNCg&t=39s) _(Como criar um gmail de forma fácil em 3 minutos)_
 - [Assistir vídeo 4](https://www.youtube.com/watch?v=S3EymlGW1R0) _(Qual a função do Cc e do Cco para enviar email?)_
-- [Baixar Exercício de fixação](https://github.com/jussieprof/jussieprof.github.io/raw/gh-pages/exercicios/EXERC%C3%8DCIO%20DE%20FIXA%C3%87%C3%83O%20-%20AULA%2007.pdf)
+- [Baixar Exercício de fixação](https://github.com/jussieprof/jussieprof.github.io/raw/gh-pages/exercicios/EXERC%C3%8DCIO%20DE%20FIXA%C3%87%C3%83O%20-%20AULA%2006.pdf) _(Exercício referente as aulas 07)_
