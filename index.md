@@ -32,12 +32,11 @@ BAIXAR NOTA DE AULA - AULA 04 - _(Continuação da Aula 03)_
 
 BAIXAR NOTA DE AULA - AULA 05 - _(Conteúdo apresentado na Aula 05)_
 - [Baixar Slide](https://github.com/jussieprof/jussieprof.github.io/raw/gh-pages/slides/AULA%2003%20-%20HARDWARE%20E%20SOFTWARE.pdf)
-- [Assistir vídeo](https://www.youtube.com/watch?v=3yTDZTKwj-o) _(Guerra dos navegadores)_
-- [Baixar Exercício de fixação](https://github.com/jussieprof/jussieprof.github.io/raw/gh-pages/slides/AULA%2002%20-%20HIST%C3%93RIA%20E%20EVOLU%C3%87%C3%83O.pdf)
+- [Assistir vídeo](https://www.youtube.com/watch?v=pKxWPo73pX0) _(História da Internet)_
 
 BAIXAR NOTA DE AULA - AULA 06 - _(Continuação da Aula 05)_
-- [Assistir vídeo](https://www.youtube.com/watch?v=mFdUqqwzbVs)
-- [Baixar Exercício de fixação](https://github.com/jussieprof/jussieprof.github.io/raw/gh-pages/slides/AULA%2002%20-%20HIST%C3%93RIA%20E%20EVOLU%C3%87%C3%83O.pdf)
+- [Assistir vídeo](https://www.youtube.com/watch?v=3yTDZTKwj-o) _(Guerra dos navegadores)_
+- [Baixar Exercício de fixação](https://github.com/jussieprof/jussieprof.github.io/raw/gh-pages/exercicios/EXERC%C3%8DCIO%20DE%20FIXA%C3%87%C3%83O%20-%20AULA%2006.pdf)
 
 BAIXAR NOTA DE AULA - AULA 07 - _(Conteúdo apresentado na Aula 07)_
 - [Baixar Slide](https://github.com/jussieprof/jussieprof.github.io/raw/gh-pages/slides/AULA%2003%20-%20HARDWARE%20E%20SOFTWARE.pdf)
