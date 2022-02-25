@@ -18,17 +18,19 @@ Acesse ou faça o download dos conteúdos clicando nos respectivos links de cada
 
 **BAIXAR NOTA DE AULA - AULA 02** - _(Conteúdo apresentado na Aula 02)_
 - [Baixar Slide](https://github.com/jussieprof/jussieprof.github.io/raw/gh-pages/slides/AULA%2002%20-%20HIST%C3%93RIA%20E%20EVOLU%C3%87%C3%83O.pdf)
-- [Assistir vídeo](https://www.youtube.com/watch?v=mFdUqqwzbVs)
-- [Baixar Exercício de fixação](https://github.com/jussieprof/jussieprof.github.io/raw/gh-pages/slides/AULA%2002%20-%20HIST%C3%93RIA%20E%20EVOLU%C3%87%C3%83O.pdf)
+- [Assistir vídeo](https://www.youtube.com/watch?v=mFdUqqwzbVs) _(História: A evolução dos Computadores)_
+- [Baixar Exercício de fixação](https://github.com/jussieprof/jussieprof.github.io/raw/gh-pages/exercicios/EXERC%C3%8DCIO%20DE%20FIXA%C3%87%C3%83O%20-%20AULA%2002.pdf)
 
 **BAIXAR NOTA DE AULA - AULA 03** - _(Conteúdo apresentado na Aula 03)_
 - [Baixar Slide](https://github.com/jussieprof/jussieprof.github.io/raw/gh-pages/slides/AULA%2003%20e%2004%20-%20HARDWARE%20E%20SOFTWARE.pdf)
-- [Assistir vídeo](https://www.youtube.com/watch?v=Z5TvnCWPwes)
-- [Baixar Exercício de fixação](https://github.com/jussieprof/jussieprof.github.io/raw/gh-pages/slides/AULA%2002%20-%20HIST%C3%93RIA%20E%20EVOLU%C3%87%C3%83O.pdf)
+- [Assistir vídeo](https://www.youtube.com/watch?v=Z5TvnCWPwes) _(Conceitos de Hardware e Software)_
+- [Assistir vídeo](https://www.youtube.com/watch?v=RM8bBzHggu8) _(O que é software e hardware?)_
+- [Baixar Exercício de fixação](https://github.com/jussieprof/jussieprof.github.io/raw/gh-pages/exercicios/EXERC%C3%8DCIO%20DE%20FIXA%C3%87%C3%83O%20-%20AULA%2003.pdf)
 
 **BAIXAR NOTA DE AULA - AULA 04** - _(Continuação da Aula 03)_
-- [Assistir vídeo 1](https://www.youtube.com/watch?v=DhvY3nIgZNQ)
-- [Assistir vídeo 2](https://www.youtube.com/watch?v=VhpTG8s5Klo)
+- [Assistir vídeo 1](https://www.youtube.com/watch?v=t3QGCGJck3U)
+- [Assistir vídeo 2](https://www.youtube.com/watch?v=DhvY3nIgZNQ)
+- [Assistir vídeo 3](https://www.youtube.com/watch?v=VhpTG8s5Klo)
 - [Baixar Exercício de fixação](https://github.com/jussieprof/jussieprof.github.io/raw/gh-pages/slides/AULA%2002%20-%20HIST%C3%93RIA%20E%20EVOLU%C3%87%C3%83O.pdf)
 
 **BAIXAR NOTA DE AULA - AULA 05** - _(Conteúdo apresentado na Aula 05)_
@@ -49,3 +51,12 @@ Acesse ou faça o download dos conteúdos clicando nos respectivos links de cada
 - [Assistir vídeo 3](https://www.youtube.com/watch?v=qXtzobMvNCg&t=39s) _(Como criar um gmail de forma fácil em 3 minutos)_
 - [Assistir vídeo 4](https://www.youtube.com/watch?v=S3EymlGW1R0) _(Qual a função do Cc e do Cco para enviar email?)_
 - [Baixar Exercício de fixação](https://github.com/jussieprof/jussieprof.github.io/raw/gh-pages/exercicios/EXERC%C3%8DCIO%20DE%20FIXA%C3%87%C3%83O%20-%20AULA%2006.pdf) _(Exercício referente as aulas 07)_
+
+**BAIXAR NOTA DE AULA - AULA 08** - _(Conteúdo apresentado na Aula 08)_
+**_Em Breve_**
+
+**BAIXAR NOTA DE AULA - AULA 09** - _(Conteúdo apresentado na Aula 09)_
+**_Em Breve_**
+
+**BAIXAR NOTA DE AULA - AULA 10** - _(Conteúdo apresentado na Aula 10)_
+**_Em Breve_**
