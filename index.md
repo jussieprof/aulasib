@@ -28,9 +28,9 @@ Acesse ou faça o download dos conteúdos clicando nos respectivos links de cada
 - [Baixar Exercício de fixação](https://github.com/jussieprof/jussieprof.github.io/raw/gh-pages/exercicios/EXERC%C3%8DCIO%20DE%20FIXA%C3%87%C3%83O%20-%20AULA%2003.pdf)
 
 **BAIXAR NOTA DE AULA - AULA 04** - _(Continuação da Aula 03)_
-- [Assistir vídeo 1](https://www.youtube.com/watch?v=t3QGCGJck3U)
-- [Assistir vídeo 2](https://www.youtube.com/watch?v=DhvY3nIgZNQ)
-- [Assistir vídeo 3](https://www.youtube.com/watch?v=VhpTG8s5Klo)
+- [Assistir vídeo 1](https://www.youtube.com/watch?v=t3QGCGJck3U) _(O que é Software Aplicativo e Software de Sistema?)_
+- [Assistir vídeo 2](https://www.youtube.com/watch?v=DhvY3nIgZNQ) _(Principais tipos de software exemplos)_
+- [Assistir vídeo 3](https://www.youtube.com/watch?v=VhpTG8s5Klo) _(O que são softwares aplicativos, definição e exemplos)_
 - [Baixar Exercício de fixação](https://github.com/jussieprof/jussieprof.github.io/raw/gh-pages/slides/AULA%2002%20-%20HIST%C3%93RIA%20E%20EVOLU%C3%87%C3%83O.pdf)
 
 **BAIXAR NOTA DE AULA - AULA 05** - _(Conteúdo apresentado na Aula 05)_
@@ -53,10 +53,10 @@ Acesse ou faça o download dos conteúdos clicando nos respectivos links de cada
 - [Baixar Exercício de fixação](https://github.com/jussieprof/jussieprof.github.io/raw/gh-pages/exercicios/EXERC%C3%8DCIO%20DE%20FIXA%C3%87%C3%83O%20-%20AULA%2006.pdf) _(Exercício referente as aulas 07)_
 
 **BAIXAR NOTA DE AULA - AULA 08** - _(Conteúdo apresentado na Aula 08)_
-**_Em Breve_**
+_Em Breve_
 
 **BAIXAR NOTA DE AULA - AULA 09** - _(Conteúdo apresentado na Aula 09)_
-**_Em Breve_**
+_Em Breve_
 
 **BAIXAR NOTA DE AULA - AULA 10** - _(Conteúdo apresentado na Aula 10)_
-**_Em Breve_**
+_Em Breve_
