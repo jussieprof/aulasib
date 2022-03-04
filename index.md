@@ -33,7 +33,7 @@ Acesse ou faça o download dos conteúdos clicando nos respectivos links de cada
 - [Assistir vídeo 3](https://www.youtube.com/watch?v=VhpTG8s5Klo) _(O que são softwares aplicativos, definição e exemplos)_
 - [Baixar Exercício de fixação](https://github.com/jussieprof/jussieprof.github.io/raw/gh-pages/slides/AULA%2002%20-%20HIST%C3%93RIA%20E%20EVOLU%C3%87%C3%83O.pdf)
 
-**BAIXAR NOTA DE AULA - AULA 05** - _(História da internete e a Evolução da Web)_
+**BAIXAR NOTA DE AULA - AULA 05** - _(História da internet e a Evolução da Web)_
 - [Baixar Slide](https://github.com/jussieprof/jussieprof.github.io/raw/gh-pages/slides/AULA%2005%20e%2006%20-%20EVOLU%C3%87%C3%83O%20DA%20WEB.pdf) _(Slides referente as aulas 05 e 06)_
 - [Assistir vídeo 1](https://www.youtube.com/watch?v=pKxWPo73pX0) _(História da Internet)_
 - [Assistir vídeo 2](https://www.youtube.com/watch?v=Cw7KpTDV2tQ) _(Web 1.0 vs Web 2.0 Web 3.0)_
@@ -51,13 +51,13 @@ Acesse ou faça o download dos conteúdos clicando nos respectivos links de cada
 - [Assistir vídeo 3](https://www.youtube.com/watch?v=qXtzobMvNCg&t=39s) _(Como criar um gmail de forma fácil em 3 minutos)_
 - [Assistir vídeo 4](https://www.youtube.com/watch?v=S3EymlGW1R0) _(Qual a função do Cc e do Cco para enviar email?)_
 - [Assistir vídeo 5](https://www.youtube.com/watch?v=Of8SzCdRQ0g&t=15s) _(Gmail - Enviar e-mail com arquivo anexado)_
-- [Baixar Exercício de fixação](https://github.com/jussieprof/jussieprof.github.io/raw/gh-pages/exercicios/EXERC%C3%8DCIO%20DE%20FIXA%C3%87%C3%83O%20-%20AULA%2007.pdf) _(Exercício referente as aulas 07)_
+- [Baixar Exercício de fixação](https://github.com/jussieprof/jussieprof.github.io/raw/gh-pages/exercicios/EXERC%C3%8DCIO%20DE%20FIXA%C3%87%C3%83O%20-%20AULA%2006.pdf) _(Exercício referente a aula 07)_
 
-**BAIXAR NOTA DE AULA - AULA 08** - _(Conteúdo apresentado na Aula 08)_
-_Em Breve_
+**BAIXAR NOTA DE AULA - AULA 08** - _(Pré-Avaliação Parcial II [Contextualização - História e evolução dos computadores])_
+- [Assistir Filme](https://youtu.be/Q2xrQ5U0Tbo) _(Enigma - O Jogo da Imitação)_
 
-**BAIXAR NOTA DE AULA - AULA 09** - _(Conteúdo apresentado na Aula 09)_
-_Em Breve_
+**BAIXAR NOTA DE AULA - AULA 09** - _(Pré-Avaliação Parcial II - Continuação do Filme, Exercício e Revisão AP2)_
+- [Baixar Exercício de fixação](https://github.com/jussieprof/jussieprof.github.io/raw/gh-pages/exercicios/EXERC%C3%8DCIO%20DE%20FIXA%C3%87%C3%83O%20-%20AULA%2009.pdf) _(Exercício referente as aulas 08 e 09)_
 
 **BAIXAR NOTA DE AULA - AULA 10** - _(Conteúdo apresentado na Aula 10)_
 _Em Breve_
