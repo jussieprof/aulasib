@@ -59,7 +59,13 @@ Acesse ou faça o download dos conteúdos clicando nos respectivos links de cada
 **BAIXAR NOTA DE AULA - AULA 09** - _(Pré-Avaliação Parcial II - Continuação do Filme, Exercício e Revisão AP2)_
 - [Baixar Exercício de fixação](https://github.com/jussieprof/jussieprof.github.io/raw/gh-pages/exercicios/EXERC%C3%8DCIO%20DE%20FIXA%C3%87%C3%83O%20-%20AULA%2009.pdf) _(Exercício referente as aulas 08 e 09)_
 
-- [Baixar Estudo Dirigido AP2 ](https://github.com/jussieprof/jussieprof.github.io/raw/gh-pages/exercicios/EXERC%C3%8DCIO%20DE%20FIXA%C3%87%C3%83O%20-%20AULA%2009.pdf) _(Exercício referente as aulas 08 e 09)_
+- [Baixar Estudo Dirigido AP2 - 1º Bimestre](https://github.com/jussieprof/jussieprof.github.io/raw/gh-pages/exercicios/ESTUDO%20DIRIGIDO%20INFORM%C3%81TICA%20B%C3%81SICA%20-%20AP2.pdf) _(Exercício referente as aulas 08 e 09)_
 
 **BAIXAR NOTA DE AULA - AULA 10** - _(Conteúdo apresentado na Aula 10)_
+_Em Breve_
+
+**BAIXAR NOTA DE AULA - AULA 11** - _(Conteúdo apresentado na Aula 11)_
+_Em Breve_
+
+**BAIXAR NOTA DE AULA - AULA 12** - _(Conteúdo apresentado na Aula 12)_
 _Em Breve_
