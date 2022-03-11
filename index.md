@@ -63,7 +63,7 @@ Acesse ou faça o download dos conteúdos clicando nos respectivos links de cada
 - [Baixar Estudo Dirigido AP2 - 1º Bimestre](https://github.com/jussieprof/jussieprof.github.io/raw/gh-pages/exercicios/ESTUDO%20DIRIGIDO%20INFORM%C3%81TICA%20B%C3%81SICA%20-%20AP2.pdf) _(Estudo dirigido para Avaliação Parcial 2 - 1º Bimestre)_
 
 **BAIXAR NOTA DE AULA - AULA 11** - _(Conteúdo apresentado na Aula 11)_
-_Em Breve_
+- [Baixar orientações e temas da AP3 - 1º Bimestre](https://github.com/jussieprof/jussieprof.github.io/raw/gh-pages/avalia%C3%A7%C3%B5es/Temas%20da%20Avalia%C3%A7%C3%A3o%20Parcial%203%20-%201%C2%BA%20Bimestre.pdf)
 
 **BAIXAR NOTA DE AULA - AULA 12** - _(Conteúdo apresentado na Aula 12)_
 _Em Breve_
